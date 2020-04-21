@@ -1,2 +1,2 @@
-# DSALGO_C-
-DS Algo practice in C++
+# DSALGO_C++
+DS Algo practice questions in C++
