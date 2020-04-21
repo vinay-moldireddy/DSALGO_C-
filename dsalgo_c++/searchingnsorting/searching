@@ -1,0 +1,6 @@
+//searching and sorting notes 
+//linear search O(n) 
+//binary search (when array is sorted we just compare the target number with midpindt of array and just call the functionn for haft of the array and repeat this)  O(logn)
+//jump search O(rootn)
+//interpolation sorting O(log logn) can go upto O(n)
+//exponential search O(logn)

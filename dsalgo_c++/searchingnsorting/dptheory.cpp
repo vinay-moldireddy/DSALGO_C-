@@ -1,0 +1,2 @@
+overlapping subproblems 
+optimal substructure 
